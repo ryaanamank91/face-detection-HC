@@ -12,8 +12,7 @@ This project implements a real-time face detection system using OpenCV's pre-tra
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/FaceDetection_HC.git
-   cd FaceDetection_HC
+   git clone https://github.com/ryaanamank91/face-detection-HC.git
 
 2. **Install dependencies**:
    ```bash
